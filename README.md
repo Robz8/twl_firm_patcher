@@ -13,7 +13,6 @@ Usage :
 - rename it to firmware_twl.bin and put it into input.
 - run go.cmd (o3ds or n3ds, depending on your console)
 - put the twlBg.cxi file into luma/sysmodules (V6.0 dev version required)
-- an "enabler" program is needed to unlock the HW.
 
 Thanks to Nocash and Steveice10 for their reverse engineering work and the documentation produced.
  
