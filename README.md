@@ -12,7 +12,8 @@ Usage :
 - Dump the twl_firm of your console using decrypt9 (SysNAND Options->Miscellanous->NCCH FIRMs Dump)
 - rename it to firmware_twl.bin and put it into input.
 - run go.cmd (o3ds or n3ds, depending on your console)
-- put the twlBg.cxi file into luma/sysmodules (V6.0 dev version required)
+- put the twlBg.cxi file into luma/sysmodules
+- Enable "loading external FIRMs and modules" in Luma settings
 
 Thanks to Nocash and Steveice10 for their reverse engineering work and the documentation produced.
  
