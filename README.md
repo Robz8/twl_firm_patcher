@@ -6,7 +6,7 @@ Python 2.7 and devKitPro (msys) are required and needs to be available in the Pa
 
 This modifed twlBg.cxi allows to redirect DSiWare to SD.
 
-Please note that the DSiWare CIA needs to be installed to the system, but without the NitroFS data.
+Please note that the DSiWare CIA needs to be installed to the system. It is recommended to exclude the NitroFS data from the .nds file before making CIA.
 
 Usage :
 - Dump the twl_firm of your console using decrypt9 (SysNAND Options->Miscellanous->NCCH FIRMs Dump)
